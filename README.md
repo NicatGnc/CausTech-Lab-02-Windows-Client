@@ -122,4 +122,6 @@ DHCP configuration and testing are reserved for **Lab 03**.
 
 This is a personal home lab created for hands-on learning and IT portfolio development. CausTech Technologies is a fictional company.
 
-**Related project:** [Lab 01 — Windows Server & Active Directory](https://github.com/NicatGnc/CausTech-Lab-01-Active-Directory)
+**Related project:** 
+[Lab 01 — Windows Server & Active Directory](https://github.com/NicatGnc/CausTech-Lab-01-Active-Directory) 
+[Lab 03 — Windows Server & Active Directory](https://github.com/NicatGnc/CausTech-Lab-03-DHCP-Server)
